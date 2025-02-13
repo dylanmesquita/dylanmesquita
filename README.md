@@ -3,8 +3,8 @@
 
 <div align="center">
 
-  ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanmesquita&rank_icon=github&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmesquita&layout=donut-vertical&height=500px&theme=dark)
+  ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanmesquita&rank_icon=github&show_icons=true&theme=prussian)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmesquita&layout=compact&height=700px&theme=prussian)
 </div>
  
   
