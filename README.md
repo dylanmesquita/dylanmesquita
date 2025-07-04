@@ -10,7 +10,7 @@
   
 <div align="center"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=eclipse,java,js,html,css,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=SQLite,java,js,html,css,py)](https://skillicons.dev)
 </div>
 
 <hr>
