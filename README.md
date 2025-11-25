@@ -11,7 +11,7 @@
 
   <div align="center"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=sqlite,java,js,html,css,py,swift,kali)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=sqlite,java,js,html,css,py,swift,cpp,dart,kali)](https://skillicons.dev)
   
   </div>
   
